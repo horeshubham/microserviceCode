@@ -7,3 +7,4 @@ http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
 
 h2 console
 http://localhost:8000/h2-console
+
